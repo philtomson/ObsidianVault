@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f10e9cc136b39a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Compilers/Frontend/C/libclang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI_ML/PyTorch/Mixed Precision Training.md",
+                "file": "Programming/Compilers/Frontend/C/libclang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI_ML/PyTorch/Mixed Precision Training.md",
+                "file": "Programming/Compilers/Frontend/C/libclang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI_ML/PyTorch/Mixed Precision Training.md"
+                "file": "Programming/Compilers/Frontend/C/libclang.md"
               }
             }
           }
@@ -157,13 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9b4438339b19e71",
+  "active": "f10e9cc136b39a6b",
   "lastOpenFiles": [
+    "Programming/C/Safer Arrays in C.md",
+    "Programming/Compilers/Frontend/C/libclang.md",
+    "Programming/Compilers/Frontend/C",
+    "Programming/Compilers/Frontend",
+    "Programming/Compilers",
+    "Programming/Compilers.md",
+    "Untitled.md",
+    "Untitled 1",
     "AI_ML/PyTorch/Mixed Precision Training.md",
     "AI_ML/PyTorch",
     "Programming/Forth/Forths to try.md",
-    "Untitled 1",
-    "Programming/C/Safer Arrays in C.md",
     "Programming/Forth",
     "Getting_Started.md",
     "Programming/C",
