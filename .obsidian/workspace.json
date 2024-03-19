@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "320a2f6856eb76f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Compilers/LLVM/LLVM-IR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Compilers/Frontend/C/libclang.md",
+                "file": "Programming/Compilers/LLVM/LLVM-IR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Compilers/Frontend/C/libclang.md",
+                "file": "Programming/Compilers/LLVM/LLVM-IR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Compilers/Frontend/C/libclang.md"
+                "file": "Programming/Compilers/LLVM/LLVM-IR.md"
               }
             }
           }
@@ -169,8 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f10e9cc136b39a6b",
+  "active": "320a2f6856eb76f8",
   "lastOpenFiles": [
+    "Programming/Compilers/LLVM/Adding a new RISC-V instruction to LLVM.md",
+    "Programming/Compilers/LLVM/LLVM-IR.md",
+    "Programming/Forth/Forths to try.md",
+    "Programming/Compilers/LLVM",
     "Programming/C/Safer Arrays in C.md",
     "Programming/Compilers/Frontend/C/libclang.md",
     "Programming/Compilers/Frontend/C",
@@ -181,12 +197,10 @@
     "Untitled 1",
     "AI_ML/PyTorch/Mixed Precision Training.md",
     "AI_ML/PyTorch",
-    "Programming/Forth/Forths to try.md",
     "Programming/Forth",
     "Getting_Started.md",
     "Programming/C",
     "Untitled",
-    "Programming",
-    "AI_ML"
+    "Programming"
   ]
 }
